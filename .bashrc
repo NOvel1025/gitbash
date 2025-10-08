@@ -6,3 +6,5 @@ ex() {
 nvimc() {
   ~/AppData/Local/Programs/Neovim/bin/nvim.exe "$@"
 }
+
+alias f=~/AppData/Local/nvim-data/lazy/vim-floaterm/bin/floaterm
